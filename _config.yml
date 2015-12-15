@@ -1,7 +1,7 @@
 name: MatthewErickson
 favicon: null
-layout_spectrum: 0.5411060156766325
-typography_spectrum: 0.44264214811846614
+layout_spectrum: 0.77227
+typography_spectrum: 0.73577
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.273192705353722
+    - '#09364c'
+    - '#31c1e9'
+    - '#0280d0'
+    - '#ffffff'
+    - '#ff6ba5'
+  brandStrength: 0.25
   lightness: 0.9068603322375566
-  saturation: 0.8565478429663926
-  rhythmicContrast: 0.7509829213377088
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
