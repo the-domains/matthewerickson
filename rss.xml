@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MatthewErickson]]></title>
         <description><![CDATA[MatthewErickson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matthewerickson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 17:17:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 19:41:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matthewerickson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3d18078-52e1-4ac5-9d39-a14575d4417a.jpg">]]></description>
+            <link>https://thegrid.ai/matthewerickson/9605d410-d29a-4703-8fc9-2378f44a4131/index.html</link>
+            <guid isPermaLink="false">9605d410-d29a-4703-8fc9-2378f44a4131</guid>
+            <pubDate>Thu, 04 Feb 2016 19:40:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introduction]]></title>
             <description><![CDATA[<article><h1>Introduction</h1><p>Hi. I'm Matthew Erickson.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9a0954f79df9d65ef732b64250a594011ba17e5.jpg"></article>]]></description>
-            <link>undefinedintroduction/index.html</link>
+            <link>https://thegrid.ai/matthewerickson/introduction/index.html</link>
             <guid isPermaLink="false">9bf8c823-4709-47cf-b578-3da23b0364fc</guid>
             <pubDate>Tue, 15 Dec 2015 17:17:27 GMT</pubDate>
         </item>
